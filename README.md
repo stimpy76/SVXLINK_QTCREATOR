@@ -24,9 +24,9 @@ How to build SVXLINK with QTCREATOR
     1) Download QT<br>
        wget http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run
     2) Chmod filename in terminal<br>
-       chmod 775 /<file location>/qt-unified-linux-x64-online.run
+       chmod 775 /"file location"/qt-unified-linux-x64-online.run
     3) Run installer<br>
-       ./<file location>/qt-unified-linux-x64-online.run
+       ./"file location"/qt-unified-linux-x64-online.run
     4) Make QT account<br>
     5) Select Components<br>
        Picture
@@ -38,9 +38,9 @@ How to build SVXLINK with QTCREATOR
 ### Compiling without QTCreator
 
 1) Make directory where clone SVXLink in to.<br>
-   mkdir <name>
+   mkdir "name"
 2) Change to directory<br>
-   cd <name>
+   cd "name"
 3) Clone SVXLink repositorie<br> 
    git clone http://github.com/sm0svx/svxlink.git
 4) Change to directory svxlink/src/<br>
