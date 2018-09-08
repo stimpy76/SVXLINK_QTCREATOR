@@ -6,29 +6,29 @@ How to build SVXLINK with QTCREATOR
 3) Install latest Ubuntu on VirtualBox
 4) Install Build-Essential<br>
    sudo apt-get install build-essential
-5) Install Git
+5) Install Git<br>
    sudo apt-get install git
-6) Install CMake
+6) Install CMake<br>
    sudo apt-get install cmake
-7) Install pkg-config
+7) Install pkg-config<br>
    sudo apt-get install pkg-config
-8) Install sigc++-2.0 dev pack
+8) Install sigc++-2.0 dev pack<br>
    sudo apt-get install libsigc++-2.0-dev
-9) Install speex dev pack
+9) Install speex dev pack<br>
    sudo apt-get install libspeex-dev
-10) Install Opus dev pack
+10) Install Opus dev pack<br>
    sudo apt-get install libopus-dev
-11) Install Alsa dev pack
+11) Install Alsa dev pack<br>
    sudo apt-get install libasound2-dev
-12) Download en install QT framework
-    1) Download QT
+12) Download en install QT framework<br>
+    1) Download QT<br>
        wget http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run
-    2) Chmod filename in terminal
+    2) Chmod filename in terminal<br>
        chmod 775 /<file location>/qt-unified-linux-x64-online.run
-    3) Run installer
+    3) Run installer<br>
        ./<file location>/qt-unified-linux-x64-online.run
-    4) Make QT account
-    5) Select Components
+    4) Make QT account<br>
+    5) Select Components<br>
        Picture
     6) Accept Licence Agreement
     7) Press Install button
