@@ -4,7 +4,7 @@ How to build SVXLINK with QTCREATOR
 1) Install VirtualBox
 2) Download latest Ubuntu desktop 18.04.1 LTS
 3) Install latest Ubuntu on VirtualBox
-4) Install Build-Essential
+4) Install Build-Essential<br>
    sudo apt-get install build-essential
 5) Install Git
    sudo apt-get install git
