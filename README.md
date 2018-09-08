@@ -31,7 +31,7 @@ How to build SVXLINK with QTCREATOR
     5) Select Components<br>
        Picture
     6) Accept Licence Agreement
-    7) Press Install button
+    7) Press Install button<br>
     Coffee this take some time :P
 
 
