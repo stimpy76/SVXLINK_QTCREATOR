@@ -32,7 +32,7 @@ How to build SVXLINK with QTCREATOR
        Picture
     6) Accept Licence Agreement
     7) Press Install button
-
+    Coffee this take some time :P
 
 
 ### Compiling without QTCreator
