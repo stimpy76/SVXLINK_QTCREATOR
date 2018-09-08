@@ -37,19 +37,20 @@ How to build SVXLINK with QTCREATOR
 
 ### Compiling without QTCreator
 
-1) Make directory where clone SVXLink in to.
+1) Make directory where clone SVXLink in to.<br>
    mkdir <name>
-2) Change to directory
+2) Change to directory<br>
    cd <name>
-3) Clone SVXLink repositorie 
+3) Clone SVXLink repositorie<br> 
    git clone http://github.com/sm0svx/svxlink.git
-4) Change to directory svxlink/src/
+4) Change to directory svxlink/src/<br>
    cd /svxlink/src
-5) Make building directory
+5) Make building directory<br>
    mkdir build
-6) Change to directory build
+6) Change to directory build<br>
    cd build
-7) Run CMake command
+7) Run CMake command<br>
+   cmake ../
    
 
    
