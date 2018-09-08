@@ -1,0 +1,2 @@
+# SVXLINK_QTCREATOR
+How to build SVXLINK with QTCREATOR
