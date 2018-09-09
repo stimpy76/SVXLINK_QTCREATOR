@@ -56,7 +56,7 @@ How to build SVXLINK with QTCREATOR
    goto /"File Location/svxlink/src/CMakeLists.txt
 3) Open
 4) Build<br>
-   In the project folder on the left you get svxlink project right click and build
+   In the project folder on the left you get svxlink project right click on it and build
 5) Feel free to change code.
 
 ### Compiling without QTCreator
